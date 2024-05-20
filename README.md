@@ -7,6 +7,8 @@ Through this project, I employed various excel functions and techniques to extra
 **Tool used:** Excel
 
 =============================================
+
+
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐆𝐨𝐚𝐥𝐬:
 
 𝟏. 𝐒𝐚𝐥𝐞𝐬 𝐓𝐫𝐞𝐧𝐝 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: Dissecting Maven Roasters' sales trends over time to understand their business dynamics.
