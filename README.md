@@ -6,10 +6,12 @@ Through this project, I employed various excel functions and techniques to extra
 
 **Tool used:** Excel
 
-𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐆𝐨𝐚𝐥𝐬:
+<u>𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐆𝐨𝐚𝐥𝐬:<u>
 
 𝟏. 𝐒𝐚𝐥𝐞𝐬 𝐓𝐫𝐞𝐧𝐝 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬: Dissecting Maven Roasters' sales trends over time to understand their business dynamics.
+
 𝟐. 𝐏𝐞𝐚𝐤 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐃𝐚𝐲𝐬 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐠𝐚𝐭𝐢𝐨𝐧: Identifying the busiest days and factors driving sales spikes.
+
 𝟑. 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐏𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 𝐄𝐯𝐚𝐥𝐮𝐚𝐭𝐢𝐨𝐧: Evaluating top-selling items and revenue drivers.
 
 
