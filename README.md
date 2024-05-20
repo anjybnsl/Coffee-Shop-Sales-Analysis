@@ -16,7 +16,9 @@ Through this project, I employed various excel functions and techniques to extra
 **key Insights:**
 
 **Morning Rush:** Our data reveals a strong customer base for our early risers! Sales peak between 7 am and 10 am, highlighting a significant morning rush. We can leverage this by ensuring a well-stocked inventory and friendly staff during these peak hours.
+
 **Weekly Wins:** Mondays and Fridays are our busiest days! This suggests a strong customer preference for starting and ending their week with Maven Roasters coffee. Tailored promotions or special offers on these days could further boost sales.
+
 **Top Sellers:** Coffee and tea reign supreme as our best-selling products! We're clearly meeting the needs of our coffee and tea enthusiasts. To further optimize our offerings, we've identified packaged chocolate as an area for potential marketing or product refinement. Perhaps exploring new varieties or promotions could unlock its full sales potential.
 
 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐌𝐨𝐝𝐞𝐥: Maven Roasters focused on happy customers with their premium coffee offerings.
