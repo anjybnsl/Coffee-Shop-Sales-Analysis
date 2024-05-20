@@ -28,6 +28,9 @@ Through this project, I employed various excel functions and techniques to extra
 
 **Top Sellers:** Coffee and tea reign supreme as our best-selling products! We're clearly meeting the needs of our coffee and tea enthusiasts. To further optimize our offerings, we've identified packaged chocolate as an area for potential marketing or product refinement. Perhaps exploring new varieties or promotions could unlock its full sales potential.
 
+=============================================
+
+
 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐌𝐨𝐝𝐞𝐥: Maven Roasters focused on happy customers with their premium coffee offerings.
 
 𝐀𝐩𝐩𝐫𝐨𝐚𝐜𝐡:From data prep to dashboard, Excel enabled a comprehensive analysis.
